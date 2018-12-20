@@ -1,5 +1,7 @@
 # Laravel Nova Place Field (Extended)
 
+**NOTICE: As of Nova 1.2.0 this functionality is now included in Nova by default and there is no need to install this package if you are using an up-to-date version of Nova.**
+
 An extended variant of the standard Nova Place Field to offer access to latitude and longitude coordinates
 
 ## Installation
